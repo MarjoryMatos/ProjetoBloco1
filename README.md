@@ -13,13 +13,13 @@ Indicamos a seguir os conhecimentos que os participantes tiveram que incluir no 
 
 Paticipantes:
 
-Gabriel Câmera </b>
-Gabriel Duarte </b>
-Charles Amorim </b>
-Ester Elege </b>
-Luís Henrique </b>
-Marjory Matos </b>
-Matheus Silva </b>
+Gabriel Câmera <br/>
+Gabriel Duarte <br/>
+Charles Amorim <br/>
+Ester Elege <br/>
+Luís Henrique <br/>
+Marjory Matos <br/>
+Matheus Silva <br/>
 Thamiris Lisboa
 
 
