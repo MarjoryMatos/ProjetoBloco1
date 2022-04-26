@@ -5,8 +5,7 @@ Durante o programa prático de 3 meses iremos dominar as habilidades necessária
 
 
 <div aling="center"> 
- <img src="https://user-images.githubusercontent.com/86428389/165376580-ef548755-4231-4b63-a9b4-51e090c58363.png)
-sercontent.com/86428389/165376146-29cb9e85-35a9-4203-a065-9bc5b5692252.png">
+ <img src="https://user-images.githubusercontent.com/86428389/165376964-ab642240-1f40-4c87-9d45-6c6d2eee1a5b.png">
 
 
 
