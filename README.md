@@ -4,7 +4,9 @@ Projeto criado para finalização do bloco um do bootcamp da Generation Brasil: 
 Durante o programa prático de 3 meses iremos dominar as habilidades necessárias para o sucesso pessoal e profissional. Todos os formandos estarão 100% preparados para o trabalho e já estamos alinhados com startups e empresas de software para entrevistas ao final do programa. A Generation Brasil apoia e nos orienta durante e depois do programa.
 
 
-![download](https://user-images.githubusercontent.com/86428389/165376146-29cb9e85-35a9-4203-a065-9bc5b5692252.png)
+<div aling="center"> 
+ <img src="https://user-images.githubusercontent.com/86428389/165376580-ef548755-4231-4b63-a9b4-51e090c58363.png)
+sercontent.com/86428389/165376146-29cb9e85-35a9-4203-a065-9bc5b5692252.png" widht="700px">
 
 
 
