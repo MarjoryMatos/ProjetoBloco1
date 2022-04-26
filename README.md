@@ -17,7 +17,7 @@ Neste primeiro bloco começamos com a metodologia ágil SCRUM, para que consegui
 ![WhatsApp Image 2022-04-26 at 16 48 26](https://user-images.githubusercontent.com/86428389/165380711-f2f27133-5cf4-45da-8c45-a883a39a58a1.jpeg)
 
 ##
-### Caracteríscas do projeto
+### Caracteríscas do projeto:
 O projeto realizado simula a aplicação de um banco (chamado Generation), no qual é possível criar uma conta e realizar transações bancárias básicas (tais como: saque, depósito, transferência, ver saldo e imprimir extrato). No momento do cadastro, cria-se uma pessoa, para a qual é associada uma conta (com dados gerados randomicamente). A classe Conta mantém uma lista estática (de objetos do tipo Conta) com todas as contas abertas, de modo que é possível manter o histórico de transações ao realizar o login e logout nas contas criadas. Para simular a aplicação, criamos um classe chamada Programa, simulando a interface do sistema, no qual estabelecemos as regras das entradas e tratamos os erros.
 
 ##
